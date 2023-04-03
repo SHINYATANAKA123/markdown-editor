@@ -6,6 +6,10 @@
     "build": "webpack --mode=production"
   },
   "dependencies": {
+    "@types/react": "17",
+    "@types/react-dom": "17",
+    "react": "17",
+    "react-dom": "17",
     "ts-loader": "^9.4.2",
     "typescript": "^5.0.3",
     "webpack": "^5.77.0",
